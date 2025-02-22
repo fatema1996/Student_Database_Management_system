@@ -1,0 +1,1 @@
+Here I created student Database Management System to generate student result student details. I created student login info through ID password to see student result, teacher details, students details, subject details and so on.
